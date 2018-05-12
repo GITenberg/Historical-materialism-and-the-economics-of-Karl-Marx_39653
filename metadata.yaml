@@ -1,0 +1,47 @@
+_repo: Historical-materialism-and-the-economics-of-Karl-Marx_39653
+_version: 0.1.0
+alternative_title: Materialismo storico ed economia marxistica. English
+contributor:
+  author_of_introduction:
+    agent_name: Lindsay, A. D. (Alexander Dunlop)
+    aliases:
+    - Lindsay, Archibald Dunlop
+    - Lindsay, Alexander Dunlop, Baron Lindsay of Birker
+    - Lindsey, A. D. (Alexander Dunlop)
+    - Lindsay, Alexander Dunlop
+    birthdate: 1879
+    deathdate: &id001 1952
+    gutenberg_agent_id: '44513'
+    url: http://www.gutenberg.org/2009/agents/44513
+  translator:
+    agent_name: Meredith, Christabel M. (Christabel Margaret)
+    alias: Meredith, C. M. (Christabel Margaret)
+    birthdate: 1876
+    gutenberg_agent_id: '40133'
+    url: http://www.gutenberg.org/2009/agents/40133
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Croce, Benedetto
+    birthdate: 1866
+    deathdate: *id001
+    gutenberg_agent_id: '3007'
+    url: http://www.gutenberg.org/2009/agents/3007
+    wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
+description: ''
+gutenberg_issued: '2012-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical materialism'
+- !lcc 'D'
+- !lcsh 'Marxian economics'
+title: Historical materialism and the economics of Karl Marx
+url: http://www.gutenberg.org/ebooks/39653
