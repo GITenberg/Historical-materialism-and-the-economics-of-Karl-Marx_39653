@@ -10,7 +10,7 @@ contributor:
     - Lindsey, A. D. (Alexander Dunlop)
     - Lindsay, Alexander Dunlop
     birthdate: 1879
-    deathdate: &id001 1952
+    deathdate: 1952
     gutenberg_agent_id: '44513'
     url: http://www.gutenberg.org/2009/agents/44513
   translator:
@@ -26,11 +26,13 @@ creator:
   author:
     agent_name: Croce, Benedetto
     birthdate: 1866
-    deathdate: *id001
+    deathdate: 1952
     gutenberg_agent_id: '3007'
     url: http://www.gutenberg.org/2009/agents/3007
     wikipedia: http://en.wikipedia.org/wiki/Benedetto_Croce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39653#Historical-materialism-and-the-economics-of-Karl-Marx
 gutenberg_issued: '2012-05-08'
 gutenberg_type: Text
 identifiers:
